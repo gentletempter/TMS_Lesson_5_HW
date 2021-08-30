@@ -14,7 +14,7 @@ public class ArraysTasks {
         int[] array = arrayInitialization(10);
         Arrays.sort(array);
         System.out.print("Enter the number you want to find: ");
-        num = new Scanner(System.in).nextInt();
+        num = sc.nextInt();
         if (Arrays.binarySearch(array, num) >= 0) {
             System.out.println("--> Number " + num + " is in the array");
         } else {
