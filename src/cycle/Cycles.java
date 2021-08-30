@@ -2,6 +2,10 @@ package cycle;
 
 import java.util.Scanner;
 
+/**
+ * This class contains methods to solving tasks with cycles
+ * */
+
 public class Cycles {
     public static void getOdd() {
         for (int i = 1; i < 100; i++) {

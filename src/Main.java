@@ -1,4 +1,4 @@
-import advanced.AdvancedTasks;
+import additional.AdditionalTasks;
 import array.ArraysTasks;
 import array.MultiDArraysTasks;
 import controlstructure.ControlStructures;
@@ -36,11 +36,11 @@ public class Main {
         Cycles.getSquareOfNumber();
         System.out.println("---------Advanced tasks---------");
         System.out.println(">>>>>>>>>>>>>>Task_0<<<<<<<<<<<<<<<<<");
-        AdvancedTasks.getFibonacci();
+        AdditionalTasks.getFibonacci();
         System.out.println(">>>>>>>>>>>>>>Task_1<<<<<<<<<<<<<<<<<");
-        AdvancedTasks.getDeposit(100.0f, 3);
+        AdditionalTasks.getDeposit(100.0f, 3);
         System.out.println(">>>>>>>>>>>>>>Task_2<<<<<<<<<<<<<<<<<");
-        AdvancedTasks.getMultiplicationTable();
+        AdditionalTasks.getMultiplicationTable();
         System.out.println("---------Arrays---------");
         System.out.println(">>>>>>>>>>>>>>Task_0<<<<<<<<<<<<<<<<<");
         ArraysTasks.findNumberInArray();

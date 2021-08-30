@@ -1,6 +1,10 @@
-package advanced;
+package additional;
 
-public class AdvancedTasks {
+/**
+ * This class contains methods to solving additional tasks
+ */
+
+public class AdditionalTasks {
     public static void getFibonacci() {
         for (int i = 0; i < 11; i++) {
             System.out.print(fibonacci(i) + " ");

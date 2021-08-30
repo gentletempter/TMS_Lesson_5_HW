@@ -1,6 +1,8 @@
 package controlstructure;
 
-import java.util.Scanner;
+/**
+ * This class contains methods to solving tasks with control structures
+ * */
 
 public class ControlStructures {
     public static void getMonthName(int i) {

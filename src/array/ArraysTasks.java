@@ -3,6 +3,10 @@ package array;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * This class contains methods to solving tasks with arrays
+ */
+
 public class ArraysTasks {
     public static void findNumberInArray() {
         Scanner sc = new Scanner(System.in);

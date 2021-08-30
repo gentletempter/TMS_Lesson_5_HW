@@ -3,6 +3,10 @@ package array;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * This class contains methods to solving tasks with multidimensional arrays
+ * */
+
 public class MultiDArraysTasks {
 
     public static void increaseElements() {
